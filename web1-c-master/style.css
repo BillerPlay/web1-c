@@ -1,0 +1,59 @@
+div{
+    border: 1px solid black;
+}
+.header{
+    padding-left: 10px;
+}
+.header img{
+    width: 100px;
+    height: 100px;
+}
+.header p{
+    margin-left: 10px;
+}
+.left{
+    width: 20%;
+    float: left;
+}
+.center{
+    width: 59%;
+    float: left;
+    padding: 10px;
+}
+.right {
+    width: 19%;
+    float: left;
+}
+.footer{
+    height: 60px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.footer p{
+    margin-left: 10px;
+}
+.plugin{
+    margin: 10px 0;
+    background-color: lightgray;
+    padding-bottom: 220px;
+}
+.right .plugin{
+        padding-bottom: 570px;
+}
+.center ul li{
+    display: inline-block;
+    text-align: left;
+    font-weight: bold;
+    margin-left: 160px;
+}
+.center ul li a{
+    color: blue;
+    font-style: normal;
+}
+.center ul li a:hover{
+    color: gray;
+}
+.menu{
+    padding-bottom: 280px;
+}
